@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ali, a full-time full-stack developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Ali, a full-time full-stack developer 👨‍💻 working remotely since 2019 🚀</div>  <br> <br>
   
 
 - 🔭 I’m currently working on [Casbin Role Management Dashboard](https://github.com/alikhan866/Casbin-Role-Mgt-Dashboard-RBAC)  
